@@ -1,2 +1,2 @@
 #SDP-bootcamp
-[![Build Status](https://api.cirrus-ci.com/github/USER/REPO.svg)](https://cirrus-ci.com/github/USER/REPO)
+[![Build Status](https://api.cirrus-ci.com/github/blecoeur/SDP-bootcamp.svg)](https://cirrus-ci.com/github/blecoeur/SDP-bootcamp)
